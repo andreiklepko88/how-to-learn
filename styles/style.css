@@ -153,7 +153,6 @@
 .section-title {
   padding: 0;
   margin: 0;
-  margin-bottom: 20px;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -162,7 +161,7 @@
   justify-content: center;
   z-index: 1;
   text-align: center;
-  margin: 100px auto 0 auto;
+  margin: 100px auto 20px auto;
 }
 
 .section-subtitle {
@@ -243,7 +242,6 @@
 
 .feynman__subtitle {
   padding: 0;
-  margin: 0;
   text-align: center;
   align-items: center;
   margin: 70px auto 0 auto;
@@ -294,7 +292,6 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
-  width: 200px;
 }
 
 .section-title_theme_dark {
@@ -379,7 +376,6 @@
 }
 
 .footer__author {
-  margin: 0;
   padding: 0;
   margin: 18px 0 18px 0;
   line-height: 25px;
