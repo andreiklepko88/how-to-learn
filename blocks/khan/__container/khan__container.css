@@ -1,0 +1,11 @@
+.khan__container {
+  padding-top: 105px;
+  position: relative;
+  display: flex;
+  max-width: 80%;
+  margin: 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  justify-content: left;
+  background-color: #f2f2f2;
+}
