@@ -5,7 +5,6 @@
   max-width: 80%;
   margin: 0 auto;
   flex-direction: column;
-  overflow: hidden;
   justify-content: left;
   background-color: #f2f2f2;
 }
